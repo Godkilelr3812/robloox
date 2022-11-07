@@ -2967,7 +2967,7 @@ end
 
 PrefixBox.Text = prefix
 local SettingsOpen = false
-local isHidden = false
+local isHidden = true
 
 if StayOpen == false then
 	On.BackgroundTransparency = 1
